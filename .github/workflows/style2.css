@@ -1,0 +1,64 @@
+.body {
+  background: skyblue;
+  
+  -webkit-background-clip: color;
+  background-clip: color;
+  color: transparnt;
+}
+
+Header{
+position: sticky;  
+  
+}
+
+.discr{
+  padding-top: 0px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background: deepskyblue;
+  padding: 10px 10px 10px 20px;
+}
+
+Abt{
+  background: deepskyblue;
+  padding: 10px;
+  margin: 10px;
+}
+
+button{
+  padding: 10px;
+  margin: 10px;
+  background: cadetblue;
+  border-bottom-right-radius: 20px;
+  border-top-left-radius: 20px;
+
+}
+
+btn3{
+  background: lightblue;
+  color: skyblue;
+}
+
+.icon-container{
+  border: solid blac;
+  margin: 10px;
+  overflow: hidden;
+
+}
+
+
+.img-icon4{
+  width: 50%;
+  height: 50%;
+  background: fchsia;
+}
+
+.icon-container img{
+  width: 80px;
+  height: auto;
+  display: block;
+}
+
+.btns2{
+  padding-top: 15px;
+}
